@@ -1,0 +1,13 @@
+name: datasetanalysis
+title: datasetanalysis
+username: lokeshj
+account: lokeshj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13649157
+bundleId: 9583936
+url: https://lokeshj.shinyapps.io/datasetanalysis/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|app3.R|app4.R|R programming report.docx|shopping_trends.csv|train.csv

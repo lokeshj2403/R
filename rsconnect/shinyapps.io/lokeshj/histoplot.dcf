@@ -1,0 +1,13 @@
+name: histoplot
+title: histoplot
+username: lokeshj
+account: lokeshj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13649145
+bundleId: 9583913
+url: https://lokeshj.shinyapps.io/histoplot/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|app1.R|R programming report.docx|train.csv
